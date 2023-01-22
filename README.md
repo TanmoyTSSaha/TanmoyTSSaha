@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Email - tanmoytssaha@gmail.com or Phone - +91 9383267850
 - ⚡ P.S. : You can hire me as a freelancer.
 
-[![github](https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg)][1][![facebook](https://cloud.githubusercontent.com/assets/17016297/18839836/0a06deb4-83d2-11e6-8078-1d0974af0f63.png)][2][![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][3]
+![](https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg | width=100)
