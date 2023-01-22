@@ -12,8 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Email - tanmoytssaha@gmail.com or Phone - +91 9383267850
 - ⚡ P.S. : You can hire me as a freelancer.
 
-<a href = "tanmoytssaha.github.io"><script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-<lottie-player src="https://assets10.lottiefiles.com/packages/lf20_hcjfe9tg.json"  background="#FFFFFF"  speed="1"  style="width: 300px; height: 300px;"  loop  autoplay></lottie-player></a>
 <a href="https://flutter.dev/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" width="50" /></a>
 <a href="https://dart.dev/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg" width="50" /></a>
 <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="50" /></a>
