@@ -21,7 +21,7 @@ Visit my website - <a href="https://tanmoytssaha.vercel.app/">tanmoytssaha.verce
 <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="50" /></a>
 <a href="https://www.javascript.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="50" /></a>
 <a href="https://firebase.google.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="50" /></a>
-<a href="https://aws.amazon.com/"><img src="https://github.com/TanmoyTSSaha/skill-icons/blob/main/icons/AWS-Dark.svg" width="50"></a>
+<a href="https://aws.amazon.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" width="50"></a>
 <a href="https://www.mysql.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="50" /></a>
 <a href="https://code.visualstudio.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="50" /></a>
 <a href="https://developer.android.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" width="50" /></a>
