@@ -22,6 +22,7 @@ Visit my website - <a href="https://tanmoytssaha.vercel.app/">tanmoytssaha.verce
 <a href="https://www.javascript.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="50" /></a>
 <a href="https://firebase.google.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="50" /></a>
 <a href="https://aws.amazon.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" width="50"></a>
+<a href="https://aws.amazon.com/dynamodb/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DynamoDB-Dark.svg" width="50"></a>
 <a href="https://www.mysql.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="50" /></a>
 <a href="https://code.visualstudio.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="50" /></a>
 <a href="https://developer.android.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" width="50" /></a>
@@ -33,9 +34,11 @@ Visit my website - <a href="https://tanmoytssaha.vercel.app/">tanmoytssaha.verce
 <a href="https://appwrite.io/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Appwrite.svg" width="50" /></a>
 <a href="https://www.arduino.cc/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg" width="50" /></a>
 <a href="https://www.docker.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="50" /></a>
+<a href="https://react.dev/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="50" /></a>
 <a href="https://git-scm.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="50" /></a>
 <a href="https://about.gitlab.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" width="50" /></a>
 <a href="https://github.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="50" /></a>
+<a href="https://code.visualstudio.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="50" /></a>
 <a href="mailto:tanmoytssaha@gmail.com"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" width="50" /></a>
 <a href="https://graphql.org/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg" width="50" /></a>
 <a href="https://www.linkedin.com/in/tanmoy-saha-7724b5195/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="50" /></a>
