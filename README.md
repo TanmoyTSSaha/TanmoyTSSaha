@@ -6,11 +6,10 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on an e-Commerce Food App
-- 🌱 I’m currently learning Django
-- 👯 I’m looking to collaborate on creative and innovative projects
-- 📫 How to reach me: Email - tanmoytssaha@gmail.com or Phone - +91 9383267850
-- ⚡ P.S.: You can hire me as a freelancer.
+Passionate Fullstack Developer with a little bit more eagerness towards the backend.
+Data Engineer at <a href="https://www.spicejet.com/">@SpiceJet</a>
+And also freelancing at <a href="https://devalphaspace.com/">@Devalphaspace</a> (N.B. They are toooo goooood at Mobile & Web Development)
+Visit my website - <a href="https://tanmoytssaha.vercel.app/">tanmoytssaha.vercel.app</a> (P.S. Be careful. It's under development)
 
 <a href="https://flutter.dev/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" width="50" /></a>
 <a href="https://dart.dev/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg" width="50" /></a>
