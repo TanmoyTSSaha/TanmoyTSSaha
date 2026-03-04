@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 Passionate Fullstack Developer with a little bit more eagerness towards the backend.<br>
 Data Engineer at <a href="https://www.paytm.com/">@Paytm</a> <br>
-Visit my website - <a href="https://tanmoytssaha.cc/">tanmoytssaha.vercel.app</a> (P.S. Be careful. It's under development) <br><br>
+Visit my website - <a href="https://tanmoytssaha.cc/">tanmoytssaha.cc</a> (P.S. Be careful. It's under development) <br><br>
 
 <a href="https://flutter.dev/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" width="50" /></a>
 <a href="https://dart.dev/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg" width="50" /></a>
